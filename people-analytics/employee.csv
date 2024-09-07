@@ -1,0 +1,856 @@
+EmployeeID,Gender,Age,Education,Department,PerformanceRating,Absent,Turnover,ESI1_LearningOpportunities,ESI2_WorkingEnvironment,ESI3_Rewards,Promoted,CompleteTraining,TrainingScore
+ID7377,Male,27,S2,Business Development,7.92,1.0,No,9,8,6,No,Yes,98
+ID4795,Male,44,S1,Engineering,5.94,7.0,No,8,10,9,No,No,91
+ID4007,Female,21,S1,Human Resources,9.9,,No,8,10,10,Yes,No,62
+ID9524,Male,47,S1,Business Development,9.9,5.0,No,7,9,8,Yes,No,77
+ID8426,Female,46,S3,Product Management,7.92,4.0,No,9,9,9,No,Yes,85
+ID9191,Female,49,S2,Creative,9.9,1.0,No,6,10,9,No,Yes,79
+ID4731,Male,27,SMA,Creative,9.9,1.0,No,10,8,6,Yes,Yes,63
+ID3989,Female,27,S2,Data,6.93,3.0,Yes,7,6,10,Yes,Yes,60
+ID9816,Female,27,S2,Quality Assurance,6.93,6.0,Yes,6,7,8,No,No,63
+ID8856,Female,21,S3,Business Development,5.31,1.0,No,6,7,8,Yes,No,61
+ID9730,Female,39,S1,Product Management,6.93,,Yes,9,9,9,No,Yes,64
+ID8872,Female,49,S1,Business Development,8.91,7.0,No,6,8,10,No,Yes,80
+ID8748,Male,43,S3,Quality Assurance,6.93,4.0,No,6,6,6,Yes,Yes,80
+ID1591,Female,50,S1,Human Resources,7.48,4.0,Yes,9,7,10,Yes,No,78
+ID3800,Male,23,SMP,Finance,6.17,2.0,No,7,10,9,Yes,No,61
+ID2148,Male,44,S1,Data,8.95,2.0,No,10,5,9,Yes,Yes,83
+ID9581,Male,43,S1,Legal,8.55,6.0,No,8,8,7,Yes,No,83
+ID7125,Female,50,SMP,Operations,8.08,6.0,No,8,7,6,Yes,No,85
+ID2693,Female,30,S2,Marketing,7.97,2.0,No,7,10,8,No,Yes,61
+ID3337,Male,47,S3,Marketing,8.98,6.0,No,8,8,9,Yes,Yes,83
+ID6027,Female,37,S2,Human Resources,6.93,3.0,No,9,7,6,No,Yes,59
+ID1732,Male,33,SMA,Quality Assurance,6.93,4.0,No,8,6,10,Yes,Yes,62
+ID8373,Female,25,S2,Product Management,5.53,2.0,No,10,8,10,No,No,62
+ID4002,Male,30,S2,Creative,5.1,4.0,No,10,9,10,Yes,Yes,62
+ID6863,Female,48,SMP,Marketing,8.31,5.0,Yes,10,10,9,Yes,No,80
+ID3516,Female,30,S2,Business Development,6.7,,No,8,9,6,No,Yes,62
+ID8000,Female,29,S2,Product Management,5.09,4.0,No,7,8,8,No,Yes,61
+ID5427,Male,37,SMA,Legal,5.94,,Yes,6,9,10,Yes,Yes,61
+ID4134,Male,47,S3,Sales,8.32,5.0,No,10,8,7,Yes,Yes,87
+ID4705,Female,31,S1,Business Development,8.91,6.0,No,6,7,7,No,Yes,62
+ID8146,Male,23,S3,Engineering,5.6,2.0,Yes,9,5,7,No,No,61
+ID8034,Female,36,S1,Operations,6.93,2.0,No,6,7,7,No,No,63
+ID3248,Male,33,SMP,Data,6.93,6.0,No,6,6,6,Yes,No,59
+ID6099,Male,22,S3,Human Resources,5.89,5.0,No,9,8,8,Yes,Yes,59
+ID2406,Female,26,S2,Marketing,7.66,,Yes,9,7,7,No,Yes,62
+ID2866,Female,43,S2,Operations,8.95,5.0,No,7,9,8,No,Yes,78
+ID8915,Female,23,S3,Business Development,5.15,6.0,No,10,8,6,No,Yes,59
+ID3762,Female,27,SMA,Engineering,5.13,6.0,No,7,7,5,No,Yes,63
+ID7160,Male,44,SMP,Engineering,7.61,1.0,No,7,9,6,Yes,Yes,79
+ID6307,Female,50,S1,Human Resources,7.58,7.0,No,6,9,8,No,No,79
+ID5626,Male,19,S1,Creative,5.89,3.0,No,6,10,6,No,No,59
+ID5570,Male,42,S1,Quality Assurance,8.78,7.0,No,6,9,5,Yes,Yes,88
+ID5633,Male,47,S1,Engineering,8.23,4.0,Yes,5,9,6,Yes,Yes,87
+ID8890,Female,32,S2,Sales,7.92,2.0,No,6,8,10,Yes,No,63
+ID2099,Female,45,S1,Legal,8.91,4.0,No,6,10,10,No,Yes,76
+ID1849,Female,28,SMP,Legal,6.1,6.0,No,7,7,7,No,No,62
+ID7630,Male,36,SMP,Human Resources,6.93,,Yes,8,9,9,Yes,Yes,60
+ID5351,Female,29,S2,Data,6.61,6.0,No,6,10,7,No,No,59
+ID9129,Female,37,S1,Quality Assurance,6.93,6.0,No,5,9,6,No,No,61
+ID6550,Male,51,SMP,Finance,7.67,7.0,No,6,8,10,Yes,Yes,81
+,Male,24,SMP,Data,7.57,6.0,No,6,7,7,Yes,No,63
+ID4689,Male,50,SMA,Sales,7.12,6.0,No,10,9,9,No,Yes,89
+ID8483,Female,23,S3,Data,5.73,1.0,No,7,6,8,No,No,60
+ID7038,Male,25,S1,Operations,6.69,,No,7,9,10,Yes,Yes,59
+ID9848,Female,39,S1,Business Development,8.91,6.0,No,6,10,7,No,No,63
+ID9578,Female,42,S2,Finance,8.02,7.0,No,6,10,8,No,Yes,76
+ID8785,Female,26,SMP,Business Development,7.44,1.0,No,8,9,8,No,No,62
+ID5792,Male,27,S1,Operations,5.9,6.0,No,7,10,9,Yes,Yes,59
+ID5856,Female,39,S3,Data,7.92,6.0,Yes,6,5,7,No,Yes,68
+ID9491,Female,48,S1,Legal,8.52,7.0,No,9,9,9,No,No,88
+ID2217,Male,19,S2,Sales,5.19,2.0,No,9,9,9,Yes,No,63
+ID5710,Female,47,S2,Business Development,8.87,4.0,No,8,8,10,Yes,Yes,89
+ID3249,Female,28,S2,Legal,5.89,5.0,No,7,10,10,No,Yes,62
+ID6501,Male,50,S1,Marketing,8.79,7.0,No,10,10,7,Yes,No,82
+ID2044,Female,45,S1,Sales,7.31,4.0,No,6,10,6,No,Yes,87
+ID1966,Female,29,S3,Sales,6.1,1.0,No,6,7,6,Yes,Yes,61
+ID8789,Male,37,S1,Quality Assurance,6.93,4.0,No,5,6,6,Yes,No,60
+ID4743,Male,22,S2,Product Management,5.87,2.0,Yes,6,7,6,Yes,No,87
+ID1186,Female,33,S1,Creative,7.92,5.0,No,10,8,10,Yes,Yes,99
+ID8262,Female,25,S2,Creative,7.84,5.0,No,8,9,6,No,No,88
+ID6693,Male,28,S1,Marketing,6.74,3.0,No,7,10,10,Yes,No,96
+ID4236,Male,21,S2,Quality Assurance,6.12,6.0,No,6,5,7,No,No,96
+ID9431,Male,37,S2,Human Resources,9.9,,Yes,8,9,9,Yes,Yes,98
+ID7379,Female,40,SMP,Operations,8.51,5.0,Yes,10,9,7,No,No,79
+ID4730,Male,24,SMA,Engineering,6.68,2.0,Yes,5,6,7,Yes,No,62
+ID6185,Male,30,S3,Human Resources,6.93,,No,8,7,7,Yes,Yes,63
+ID1113,Male,39,S1,Quality Assurance,9.9,6.0,No,6,7,6,Yes,Yes,66
+ID4264,Male,29,SMA,Human Resources,5.82,,No,6,10,6,Yes,Yes,86
+ID3003,Male,47,S2,Quality Assurance,7.5,6.0,No,7,6,5,No,Yes,87
+ID3608,Male,47,S2,Quality Assurance,7.72,5.0,No,9,7,6,No,No,80
+ID8235,Female,51,SMA,Human Resources,7.98,5.0,No,6,9,6,No,Yes,86
+ID7246,Female,43,S2,Product Management,7.16,5.0,No,7,9,8,No,No,85
+ID8458,Male,48,SMA,Product Management,7.89,6.0,No,7,10,6,No,No,79
+ID5787,Female,21,S1,Creative,5.77,1.0,No,9,7,6,No,No,95
+ID4207,Male,49,S2,Engineering,8.7,5.0,No,7,6,5,Yes,Yes,81
+ID7019,Female,29,S2,Data,5.49,,No,7,5,6,No,Yes,91
+ID9677,Male,47,S1,Quality Assurance,7.48,5.0,Yes,6,6,7,Yes,Yes,82
+ID4671,Female,35,S2,Marketing,6.93,6.0,Yes,9,8,6,No,Yes,80
+ID8270,Male,21,SMP,Operations,5.99,5.0,No,9,9,10,Yes,Yes,89
+ID2809,Female,43,S2,Business Development,8.95,5.0,No,8,8,8,No,Yes,84
+ID1671,Female,36,S2,Data,5.94,6.0,No,5,5,7,Yes,Yes,88
+ID1107,Male,41,S3,Operations,8.55,6.0,No,9,7,6,Yes,Yes,76
+ID4780,Female,37,S2,Data,6.93,5.0,No,6,6,10,No,Yes,100
+ID2033,Female,37,S2,Finance,6.93,2.0,No,7,9,8,No,Yes,81
+ID9726,Male,36,S1,Business Development,7.92,1.0,No,6,8,8,No,Yes,71
+ID6210,Male,43,S1,Product Management,8.08,6.0,No,7,7,8,No,Yes,80
+ID7675,Male,43,S2,Finance,8.98,5.0,No,6,9,9,No,Yes,83
+ID7690,Female,43,S1,Engineering,8.31,6.0,Yes,5,7,10,No,Yes,65
+ID8351,Female,33,S2,Product Management,6.93,1.0,No,6,8,6,Yes,No,95
+ID8934,Female,28,S1,Data,7.33,5.0,Yes,6,9,8,Yes,No,91
+ID2756,Male,37,S3,Product Management,7.92,4.0,No,10,10,6,No,Yes,88
+ID1790,Male,42,S2,Creative,8.32,4.0,Yes,8,7,9,No,Yes,90
+ID6997,Male,29,S3,Product Management,7.18,3.0,No,8,8,6,No,Yes,86
+ID3842,Male,41,S2,Legal,8.95,7.0,No,9,10,8,No,Yes,82
+ID8447,Male,49,S2,Legal,7.61,7.0,No,10,8,9,Yes,Yes,80
+ID3707,Male,20,S2,Business Development,7.51,3.0,No,6,9,6,Yes,Yes,98
+ID6082,Male,29,S2,Human Resources,6.41,3.0,No,9,7,6,No,Yes,99
+ID7230,Male,22,S3,Business Development,9.9,2.0,No,8,7,7,Yes,Yes,88
+ID1689,Male,45,S1,Engineering,7.58,6.0,No,7,7,7,No,No,93
+ID7852,Male,45,SMP,Business Development,8.78,4.0,No,6,8,8,Yes,Yes,98
+ID6143,Female,38,S2,Creative,7.92,6.0,No,8,8,9,No,Yes,63
+ID3592,Male,29,SMP,Finance,6.93,4.0,No,7,7,10,Yes,No,70
+ID4584,Female,24,SMA,Engineering,7.92,4.0,Yes,7,6,6,No,No,89
+ID8083,Male,34,SMA,Business Development,8.91,,No,8,8,7,Yes,Yes,82
+ID3781,Male,46,S2,Engineering,8.23,5.0,Yes,6,5,5,Yes,No,86
+ID2684,Male,24,S2,Operations,6.93,1.0,No,9,8,7,Yes,Yes,95
+ID3919,Female,30,S1,Sales,6.93,4.0,No,7,10,10,Yes,Yes,90
+ID6470,Female,47,S3,Human Resources,8.91,5.0,No,6,10,6,Yes,No,91
+ID6724,Female,36,S1,Quality Assurance,7.92,3.0,No,5,6,6,No,No,86
+ID7240,Female,21,S1,Marketing,6.93,,No,7,10,8,No,Yes,66
+ID1434,Female,42,SMP,Operations,7.67,4.0,No,10,9,9,No,Yes,71
+ID2642,Female,20,S2,Engineering,7.92,1.0,Yes,6,5,5,Yes,No,90
+ID8706,Female,46,S2,Legal,7.12,7.0,No,9,10,6,No,Yes,78
+ID1967,Female,31,SMP,Marketing,7.92,6.0,No,9,7,9,No,No,64
+ID8801,Male,33,S2,Legal,9.9,3.0,No,10,8,8,No,No,98
+ID9493,Female,27,S2,Human Resources,5.94,6.0,No,6,6,9,Yes,No,99
+ID4431,Male,44,S2,Product Management,8.02,5.0,Yes,10,10,9,No,Yes,91
+ID8716,Female,46,S3,Product Management,8.52,2.0,Yes,7,6,8,No,No,68
+ID1563,Male,44,S2,Quality Assurance,8.87,6.0,Yes,5,6,6,Yes,Yes,84
+ID6982,Female,39,S1,Legal,6.93,2.0,No,6,10,8,No,Yes,88
+ID2428,Female,51,SMP,Data,8.79,4.0,No,6,7,7,No,Yes,85
+ID7777,Male,30,S2,Creative,8.91,3.0,No,6,9,7,No,Yes,98
+ID4215,Female,48,S1,Business Development,7.31,5.0,No,8,10,10,No,No,63
+ID2161,Female,42,S2,Human Resources,8.51,2.0,No,8,9,6,No,No,92
+ID3696,Female,26,S2,Engineering,6.93,6.0,Yes,7,7,9,No,Yes,64
+ID7190,Female,37,S3,Business Development,8.91,4.0,No,7,6,8,No,No,78
+ID2281,Female,23,S1,Creative,9.9,3.0,No,8,6,9,No,No,68
+ID5864,Male,48,S3,Marketing,7.5,6.0,No,6,7,10,Yes,Yes,91
+ID2905,Male,50,SMA,Sales,7.72,6.0,Yes,8,10,6,No,Yes,77
+ID1607,Female,26,S1,Legal,7.92,,No,6,10,8,Yes,No,83
+ID6631,Female,35,SMA,Product Management,7.92,1.0,No,9,7,8,Yes,No,73
+ID2421,Male,27,S2,Legal,7.92,2.0,Yes,9,7,6,No,Yes,94
+ID3319,Male,28,S1,Sales,8.91,4.0,No,8,8,9,Yes,No,80
+ID8853,Female,43,S1,Data,7.98,4.0,No,9,10,10,No,No,85
+ID7397,Male,28,S2,Human Resources,8.91,,No,8,9,10,No,Yes,98
+ID8310,Male,26,S3,Quality Assurance,8.91,3.0,No,6,7,10,Yes,Yes,88
+ID4988,Female,46,S2,Engineering,7.16,7.0,No,9,9,7,No,Yes,79
+ID2956,Male,25,SMP,Business Development,8.91,2.0,No,10,7,7,No,Yes,74
+ID9878,Male,47,SMP,Business Development,7.89,6.0,No,10,7,9,Yes,Yes,80
+ID8133,Male,19,S2,Engineering,5.31,5.0,No,10,8,6,Yes,No,94
+ID8669,Male,36,SMP,Sales,6.93,2.0,No,9,8,7,Yes,No,87
+ID9591,Male,24,S1,Quality Assurance,6.17,2.0,No,7,10,5,Yes,No,64
+ID4184,Female,50,S1,Human Resources,8.7,5.0,No,6,10,7,No,Yes,80
+ID6946,Male,25,S3,Finance,7.97,4.0,Yes,10,7,10,No,Yes,93
+ID6530,Female,50,S2,Data,7.85,6.0,No,8,7,6,No,No,78
+ID9940,Female,21,S2,Creative,5.53,1.0,No,6,6,9,Yes,Yes,78
+ID1031,Male,23,S2,Creative,5.1,1.0,Yes,8,7,6,Yes,No,90
+ID5415,Female,38,S2,Sales,6.93,5.0,No,9,6,8,Yes,Yes,68
+ID9694,Female,32,S1,Business Development,9.9,1.0,No,9,7,7,No,Yes,74
+ID6780,Female,20,S1,Data,6.7,6.0,No,7,6,5,No,Yes,93
+ID2286,Female,39,S3,Sales,5.94,2.0,No,6,7,6,No,No,90
+ID2997,Female,36,S1,Operations,6.93,3.0,No,8,7,10,No,No,92
+ID6611,Female,37,S1,Product Management,6.93,6.0,No,10,9,9,Yes,No,77
+ID5205,Female,51,S1,Legal,8.13,2.0,No,7,9,6,No,No,83
+ID6725,Male,40,S1,Engineering,8.3,7.0,No,9,5,6,Yes,Yes,83
+ID7342,Female,49,S1,Engineering,8.18,4.0,No,7,6,7,Yes,Yes,85
+ID9678,Male,27,S1,Marketing,5.09,4.0,No,8,7,9,Yes,No,83
+ID9972,Female,51,S2,Human Resources,7.77,7.0,No,6,10,6,No,Yes,83
+ID9319,Female,30,S3,Business Development,5.6,2.0,No,7,8,6,No,Yes,88
+ID4454,Male,27,SMA,Human Resources,5.89,4.0,No,8,9,10,No,Yes,98
+ID8158,Male,22,SMA,Creative,7.66,2.0,No,9,10,9,No,Yes,62
+ID6999,Female,51,S1,Legal,7.51,4.0,No,9,7,9,No,No,80
+ID9889,Female,31,SMP,Engineering,6.93,2.0,No,6,5,7,No,No,63
+ID4740,Female,35,S2,Operations,7.92,5.0,No,7,6,9,No,No,60
+ID3617,Female,36,S2,Finance,7.92,,No,9,10,9,Yes,Yes,63
+ID4553,Female,40,S1,Sales,7.64,4.0,No,8,7,8,No,No,87
+ID8503,Female,49,S2,Legal,7.3,5.0,No,9,9,8,No,Yes,78
+ID5878,Female,42,SMP,Legal,8.71,6.0,No,6,9,8,No,Yes,79
+ID5645,Male,42,SMA,Human Resources,8.88,6.0,No,9,7,9,No,Yes,79
+ID3990,Male,43,SMA,Engineering,7.92,4.0,No,5,6,6,Yes,Yes,88
+ID9658,Female,30,S1,Legal,5.15,4.0,No,8,10,8,No,No,61
+ID9056,Female,25,SMP,Engineering,5.13,3.0,Yes,6,7,8,No,No,61
+ID4618,Male,24,SMP,Business Development,5.89,3.0,No,8,10,10,No,No,61
+ID4042,Female,32,SMP,Human Resources,5.94,5.0,No,6,6,10,No,Yes,59
+ID5907,Female,32,S2,Sales,6.93,2.0,No,9,6,8,No,Yes,62
+ID5365,Male,27,S2,Product Management,6.1,1.0,No,7,8,6,Yes,Yes,62
+ID3604,Female,33,S1,Business Development,6.93,2.0,No,10,9,7,No,No,62
+ID9307,Male,50,SMA,Human Resources,9.9,4.0,No,8,7,10,Yes,Yes,87
+ID6146,Female,50,SMP,Operations,7.92,1.0,No,9,9,9,No,No,76
+ID1797,Male,39,S1,Operations,8.91,5.0,No,6,10,10,Yes,No,100
+ID3720,Male,38,S2,Creative,6.93,5.0,No,10,10,10,Yes,Yes,92
+ID6099,Male,36,SMA,Creative,6.93,6.0,No,9,9,7,Yes,No,62
+ID1885,Male,36,S2,Sales,5.94,2.0,No,10,9,8,Yes,Yes,61
+ID8809,Male,39,S2,Sales,6.93,3.0,No,10,10,9,Yes,Yes,86
+ID6265,Female,34,S1,Human Resources,7.92,,No,8,10,7,No,Yes,61
+ID5128,Female,29,S2,Human Resources,6.61,1.0,No,10,10,6,Yes,Yes,62
+ID7941,Male,48,S1,Human Resources,8.91,7.0,No,8,7,10,Yes,Yes,81
+,Female,26,SMA,Creative,7.57,6.0,No,9,9,6,No,Yes,61
+ID1917,Female,39,S2,Legal,6.93,,No,8,10,6,Yes,Yes,95
+ID1376,Female,27,SMA,Product Management,5.73,4.0,No,10,10,9,No,No,63
+ID3601,Female,25,SMP,Quality Assurance,6.69,2.0,No,5,8,10,Yes,Yes,59
+ID9741,Male,49,S1,Marketing,7.92,5.0,No,8,9,6,No,Yes,89
+ID1648,Male,49,S2,Data,5.94,7.0,Yes,6,8,8,Yes,Yes,76
+ID8799,Male,38,S2,Engineering,6.93,6.0,Yes,7,9,10,Yes,Yes,89
+ID9949,Male,23,S1,Creative,7.44,6.0,No,8,9,7,Yes,No,59
+ID7254,Male,38,S3,Product Management,5.94,4.0,No,10,10,7,Yes,Yes,86
+ID4266,Female,28,S1,Finance,5.9,5.0,Yes,6,9,6,No,No,62
+ID7223,Male,22,S2,Product Management,5.19,5.0,No,10,7,6,Yes,Yes,59
+ID9463,Male,29,S2,Data,5.89,,No,7,8,7,Yes,Yes,63
+ID6984,Male,33,S1,Quality Assurance,8.91,6.0,No,6,9,6,No,No,59
+ID1503,Female,25,S3,Legal,6.1,1.0,No,6,10,10,No,No,63
+ID9388,Male,28,SMA,Business Development,5.87,,No,8,9,6,No,No,62
+ID8039,Male,30,S1,Engineering,7.84,1.0,No,9,7,5,Yes,No,60
+ID8173,Female,30,S2,Marketing,6.74,6.0,No,8,7,8,Yes,Yes,59
+ID2737,Female,33,SMP,Creative,8.91,1.0,No,8,10,9,No,Yes,61
+ID1842,Male,28,SMA,Business Development,6.12,6.0,No,7,10,10,Yes,No,63
+ID6131,Male,48,S3,Sales,8.91,5.0,No,7,10,7,Yes,Yes,88
+ID8047,Female,22,SMP,Human Resources,6.68,5.0,No,6,9,7,Yes,No,60
+ID3444,Female,20,S1,Quality Assurance,6.93,6.0,No,7,6,6,No,Yes,59
+ID1184,Male,48,SMA,Quality Assurance,5.94,1.0,No,6,5,5,No,No,89
+ID2594,Female,33,S2,Quality Assurance,6.93,1.0,No,5,6,6,No,Yes,62
+ID4116,Male,45,S1,Product Management,5.94,5.0,No,7,7,8,Yes,No,82
+ID3622,Female,35,S2,Creative,6.93,2.0,No,7,6,6,No,Yes,59
+ID4436,Male,19,S1,Data,5.82,5.0,No,6,5,7,No,No,63
+ID3086,Male,43,SMA,Human Resources,5.94,4.0,No,10,10,10,No,No,87
+ID4258,Female,35,SMP,Business Development,5.94,,No,9,6,9,No,Yes,62
+ID3971,Male,47,S1,Human Resources,6.93,4.0,No,9,7,9,No,No,79
+ID2050,Male,27,SMP,Business Development,5.77,3.0,No,10,9,10,Yes,Yes,61
+ID8118,Female,30,SMA,Data,5.49,,No,5,6,7,Yes,No,60
+ID1602,Male,21,S3,Business Development,5.99,6.0,No,8,7,9,Yes,Yes,92
+ID5079,Male,19,S3,Marketing,7.33,5.0,No,6,7,9,Yes,Yes,95
+ID2069,Female,44,S1,Operations,6.93,5.0,No,6,9,10,Yes,Yes,87
+ID6410,Male,32,S3,Sales,7.92,4.0,Yes,7,8,9,No,No,79
+ID4574,Male,19,S2,Engineering,7.18,2.0,Yes,6,7,6,Yes,Yes,85
+ID4945,Male,42,S2,Sales,9.9,1.0,No,8,10,9,Yes,No,80
+ID9587,Female,28,SMA,Finance,7.51,6.0,No,6,10,6,Yes,Yes,77
+ID7532,Male,24,S1,Data,6.41,2.0,Yes,7,9,8,Yes,No,97
+ID9763,Female,41,S1,Quality Assurance,7.92,4.0,No,7,6,10,No,Yes,86
+ID3048,Female,33,S2,Sales,6.93,3.0,No,6,8,10,Yes,No,83
+ID9138,Female,32,S1,Legal,6.93,4.0,No,9,7,9,Yes,No,99
+ID6093,Male,24,S2,Business Development,8.91,,No,7,7,8,Yes,Yes,88
+ID1971,Female,48,S1,Business Development,7.92,4.0,No,8,7,10,No,Yes,85
+ID3184,Male,48,S3,Operations,9.9,6.0,No,10,8,7,No,No,79
+ID2771,Female,37,S2,Legal,7.92,1.0,No,8,9,6,No,Yes,63
+ID7322,Female,49,S2,Legal,6.93,6.0,No,7,8,7,No,Yes,81
+ID7155,Male,39,S2,Marketing,7.92,4.0,Yes,7,9,10,Yes,Yes,99
+ID7354,Female,41,S1,Product Management,7.92,5.0,No,6,9,6,Yes,No,82
+ID9502,Male,26,S2,Engineering,6.93,3.0,Yes,6,7,7,Yes,No,94
+ID8573,Male,26,S3,Creative,5.94,2.0,No,9,10,9,No,No,84
+ID8662,Female,24,S2,Sales,7.92,4.0,No,6,7,6,No,Yes,92
+ID8904,Male,40,S3,Creative,8.91,5.0,No,10,10,8,Yes,Yes,84
+ID9275,Male,30,SMA,Sales,8.91,5.0,No,10,10,9,Yes,No,75
+ID2140,Female,25,S2,Human Resources,6.93,3.0,Yes,9,6,8,No,Yes,79
+ID8253,Male,23,S1,Human Resources,9.9,3.0,No,8,7,9,No,Yes,78
+ID7209,Female,23,S2,Creative,6.93,,No,9,6,8,No,Yes,95
+ID8866,Male,36,S1,Creative,9.9,6.0,No,9,8,10,Yes,Yes,89
+ID4943,Female,28,SMP,Finance,7.92,5.0,No,9,8,8,No,No,62
+ID2664,Female,20,S2,Business Development,6.93,4.0,No,7,10,6,No,No,64
+ID6435,Male,48,S3,Marketing,9.9,7.0,No,6,9,9,Yes,No,76
+ID9807,Female,47,S3,Marketing,7.92,5.0,No,6,7,10,Yes,No,80
+ID9490,Female,24,S2,Sales,5.94,5.0,No,6,10,10,No,Yes,68
+ID1519,Female,27,S1,Business Development,8.91,,No,9,10,7,No,No,70
+ID6953,Male,30,S1,Product Management,7.92,1.0,Yes,6,9,9,Yes,No,61
+ID5772,Male,29,S2,Data,9.9,6.0,Yes,7,7,6,No,Yes,86
+ID9697,Male,38,SMP,Finance,8.91,4.0,No,6,7,7,Yes,Yes,86
+ID7178,Female,22,S1,Human Resources,9.9,,No,8,10,6,No,No,86
+ID6064,Female,21,S3,Legal,7.92,,No,7,10,6,No,No,82
+ID9103,Female,24,S1,Legal,5.94,4.0,No,6,8,7,No,No,84
+ID5531,Male,29,S2,Quality Assurance,9.9,3.0,No,6,6,5,No,No,93
+ID8506,Male,34,S2,Engineering,6.93,6.0,No,5,5,6,Yes,Yes,93
+ID3981,Male,36,S1,Engineering,8.91,,No,6,6,5,Yes,No,99
+ID5651,Male,47,SMA,Sales,7.92,4.0,No,6,9,6,No,Yes,83
+ID2140,Male,33,S1,Quality Assurance,9.9,4.0,No,5,5,6,No,Yes,96
+ID6259,Male,29,S1,Product Management,6.93,5.0,No,6,7,10,No,No,83
+ID6278,Female,40,S1,Quality Assurance,6.93,4.0,No,6,6,7,No,Yes,64
+ID4544,Female,49,S1,Legal,6.93,7.0,No,8,7,8,Yes,Yes,78
+ID7836,Female,35,S2,Operations,7.92,6.0,No,8,10,8,No,No,68
+ID4526,Female,24,S1,Sales,6.93,,No,8,7,8,No,Yes,78
+ID7258,Female,31,S1,Legal,6.93,3.0,No,7,7,9,No,No,84
+ID7357,Male,51,S1,Creative,5.94,4.0,No,10,10,6,Yes,Yes,72
+ID8465,Female,22,S2,Data,7.92,,No,7,7,10,Yes,No,98
+ID3464,Female,43,S1,Business Development,7.92,4.0,No,6,7,8,No,No,84
+ID1798,Male,44,S1,Finance,7.92,6.0,Yes,7,10,9,Yes,No,62
+ID7147,Female,39,S1,Creative,6.93,,No,10,9,6,No,No,99
+ID6079,Male,49,S2,Creative,6.93,6.0,Yes,10,9,7,No,Yes,84
+ID8631,Male,39,S2,Finance,6.93,5.0,No,10,10,7,Yes,No,78
+ID8753,Male,21,S2,Sales,5.94,6.0,No,9,7,6,Yes,Yes,90
+ID1445,Female,34,SMP,Creative,7.92,4.0,No,7,10,9,No,Yes,83
+ID8660,Female,22,SMP,Human Resources,7.92,6.0,No,7,8,8,No,No,71
+ID3192,Male,43,SMA,Finance,5.94,6.0,No,7,7,6,No,No,77
+ID4662,Male,25,S3,Sales,9.9,1.0,Yes,9,8,6,No,No,87
+ID2857,Female,24,S1,Creative,6.93,5.0,No,6,10,9,No,No,61
+ID8919,Female,48,S2,Product Management,6.93,6.0,No,10,8,10,No,No,85
+ID7197,Male,47,S2,Engineering,6.93,5.0,No,6,10,7,No,No,79
+ID1697,Male,41,S1,Business Development,9.9,5.0,No,6,7,6,Yes,Yes,80
+ID3790,Male,36,S2,Creative,6.93,4.0,No,8,10,9,Yes,Yes,88
+ID9372,Female,33,SMP,Human Resources,7.92,5.0,No,9,8,7,Yes,Yes,99
+ID1652,Female,34,S2,Creative,6.93,5.0,No,10,9,6,No,Yes,88
+ID2985,Female,36,SMA,Operations,7.92,3.0,No,6,9,6,No,Yes,68
+ID4390,Male,35,S2,Legal,8.91,5.0,No,6,8,9,No,Yes,98
+ID2223,Female,23,S3,Business Development,9.9,5.0,No,9,7,8,Yes,Yes,63
+ID5412,Male,42,S1,Sales,5.94,5.0,No,9,10,6,No,No,80
+ID7310,Female,44,S2,Finance,6.93,7.0,No,6,8,9,No,Yes,78
+ID6835,Female,48,S3,Sales,6.93,7.0,No,6,7,10,Yes,Yes,83
+ID7254,Female,36,S3,Creative,7.92,4.0,No,8,10,9,Yes,Yes,90
+ID4859,Male,30,S3,Creative,6.93,,Yes,7,7,10,Yes,Yes,99
+ID8510,Female,20,SMP,Quality Assurance,5.94,1.0,Yes,7,7,7,Yes,Yes,99
+ID5337,Male,35,S2,Quality Assurance,5.94,1.0,No,10,10,7,Yes,Yes,93
+ID1701,Male,25,S2,Legal,8.91,5.0,No,7,9,9,Yes,Yes,88
+ID9974,Female,30,S2,Product Management,5.94,6.0,No,9,8,8,No,Yes,93
+ID2132,Female,25,S2,Creative,9.9,6.0,No,7,7,9,No,Yes,98
+ID2133,Male,25,S3,Marketing,6.93,5.0,No,7,8,8,Yes,Yes,94
+ID9035,Female,35,S2,Business Development,7.92,2.0,No,8,9,8,Yes,Yes,63
+ID3637,Male,24,S1,Sales,6.93,6.0,No,9,10,7,No,No,98
+ID5475,Female,21,S1,Data,7.92,3.0,No,7,9,9,Yes,No,92
+ID9193,Male,24,S1,Human Resources,7.92,6.0,No,9,10,10,Yes,No,67
+ID8537,Female,37,S1,Creative,6.93,,No,7,9,10,No,Yes,64
+ID8593,Male,49,S3,Product Management,5.94,7.0,No,6,9,6,Yes,Yes,83
+ID8045,Female,42,SMP,Operations,6.93,4.0,Yes,8,8,9,No,No,85
+ID5795,Male,38,S1,Legal,8.91,6.0,No,8,10,10,Yes,No,59
+ID7724,Female,27,S2,Business Development,7.92,2.0,No,9,10,8,No,Yes,78
+ID8232,Female,49,S1,Creative,7.92,4.0,No,8,10,6,Yes,No,83
+ID1228,Male,37,S1,Marketing,9.9,2.0,No,8,7,8,No,Yes,88
+ID3315,Female,21,S2,Finance,6.93,1.0,No,10,8,8,Yes,No,85
+ID1760,Male,49,S3,Marketing,9.9,7.0,No,9,8,9,Yes,Yes,80
+ID5214,Female,38,S1,Operations,7.92,2.0,No,8,7,7,Yes,No,78
+ID8410,Female,33,S2,Sales,7.92,1.0,No,8,10,8,No,No,80
+ID2819,Male,39,S3,Finance,9.9,3.0,No,8,10,6,Yes,Yes,90
+ID4959,Female,50,S2,Data,6.93,6.0,No,9,8,8,No,No,87
+ID5244,Female,37,SMA,Engineering,6.93,1.0,Yes,9,6,10,No,Yes,97
+ID4578,Female,25,S1,Engineering,7.92,5.0,Yes,7,7,9,No,No,73
+ID1159,Female,30,SMP,Business Development,6.93,1.0,Yes,10,7,7,Yes,No,69
+ID4665,Male,24,S1,Creative,8.91,5.0,No,7,9,10,No,Yes,77
+ID1667,Male,49,S1,Marketing,7.92,7.0,No,9,10,6,No,Yes,78
+ID1737,Female,29,S1,Business Development,7.92,3.0,No,9,9,9,No,Yes,72
+ID6520,Male,29,S1,Business Development,6.93,3.0,Yes,8,8,6,No,Yes,60
+ID1332,Male,45,S1,Business Development,5.94,7.0,No,8,8,9,Yes,Yes,79
+ID6755,Male,27,S2,Data,8.91,5.0,Yes,8,6,10,No,No,81
+ID2259,Male,29,S3,Marketing,7.92,4.0,No,8,10,8,No,Yes,91
+ID9319,Male,21,SMA,Creative,8.91,3.0,No,10,10,9,Yes,No,65
+ID4727,Female,20,S2,Legal,5.94,4.0,No,9,9,8,Yes,Yes,80
+ID7079,Male,51,SMP,Business Development,6.93,2.0,No,8,9,7,Yes,Yes,79
+ID4308,Male,33,S2,Human Resources,5.94,,No,10,9,8,Yes,Yes,79
+ID9996,Female,34,S2,Operations,6.93,,No,10,7,9,No,Yes,88
+ID4339,Female,50,S1,Operations,6.93,7.0,No,7,8,6,No,Yes,88
+ID5032,Female,42,S1,Data,7.92,4.0,No,6,7,9,No,No,87
+ID6144,Male,30,SMP,Product Management,9.9,6.0,No,8,10,6,Yes,Yes,75
+ID2387,Female,29,S1,Legal,6.93,4.0,No,10,9,7,Yes,No,78
+ID2014,Female,49,SMA,Data,5.94,5.0,No,7,6,8,Yes,No,76
+ID6118,Male,27,S2,Legal,7.92,,No,9,10,8,No,No,86
+ID3740,Female,41,S3,Engineering,5.94,6.0,No,10,9,8,No,Yes,81
+ID3440,Male,38,S2,Engineering,8.91,3.0,Yes,8,9,8,No,No,81
+ID7178,Female,35,S2,Engineering,6.93,3.0,No,7,9,7,No,No,68
+ID7159,Male,46,SMA,Data,5.94,5.0,No,8,10,7,No,Yes,89
+ID3908,Male,46,S2,Engineering,9.9,5.0,No,9,9,9,Yes,No,76
+ID8793,Female,37,S3,Product Management,6.93,3.0,Yes,10,10,8,No,Yes,88
+ID5903,Male,19,SMP,Quality Assurance,8.91,5.0,No,9,8,6,No,No,70
+ID7755,Female,21,S3,Legal,7.92,1.0,No,6,7,9,No,Yes,90
+ID2267,Male,48,S2,Operations,8.91,5.0,No,8,7,8,Yes,Yes,88
+ID9121,Male,33,S1,Quality Assurance,6.93,,No,6,10,7,Yes,No,88
+ID1502,Male,26,SMP,Finance,7.92,,No,7,7,10,Yes,No,61
+ID3338,Female,46,S1,Human Resources,6.93,6.0,No,10,7,8,No,Yes,89
+ID6853,Female,43,S1,Sales,6.93,5.0,Yes,7,9,9,No,No,82
+ID9450,Female,27,S2,Quality Assurance,7.92,4.0,No,7,7,6,No,No,64
+ID8447,Female,40,SMP,Human Resources,7.48,5.0,No,6,10,8,Yes,Yes,87
+ID2483,Male,37,SMP,Legal,5.94,,No,9,7,10,Yes,No,64
+ID3739,Male,46,SMA,Engineering,8.95,5.0,No,6,8,7,No,No,79
+ID7386,Female,47,SMA,Quality Assurance,8.55,6.0,No,7,7,7,Yes,No,87
+ID8736,Female,23,SMP,Business Development,7.92,5.0,No,6,10,8,Yes,No,96
+ID2872,Male,24,S3,Engineering,6.93,,No,7,6,6,Yes,Yes,80
+ID5182,Female,25,S1,Sales,7.92,4.0,No,8,7,6,No,No,90
+ID7999,Male,34,S1,Legal,9.9,1.0,No,7,9,7,No,Yes,99
+ID9821,Male,49,S2,Product Management,8.08,6.0,No,6,10,7,Yes,Yes,80
+ID7974,Female,20,S1,Human Resources,8.91,5.0,Yes,6,7,8,No,No,88
+ID6896,Female,35,S3,Creative,9.9,6.0,No,9,10,7,No,No,98
+ID5968,Female,26,S1,Product Management,7.92,1.0,No,8,8,7,No,No,82
+ID9201,Female,33,S1,Business Development,7.92,4.0,No,6,10,8,No,No,63
+ID4990,Female,27,S3,Operations,7.92,2.0,No,10,8,10,Yes,Yes,87
+ID2001,Female,36,SMP,Finance,5.94,3.0,No,7,8,10,Yes,Yes,88
+ID5859,Male,22,S3,Engineering,9.9,2.0,No,6,5,5,Yes,Yes,86
+ID3113,Female,33,S2,Product Management,6.93,6.0,No,7,7,10,Yes,No,94
+ID8681,Female,38,SMA,Product Management,6.93,1.0,No,7,8,10,No,No,73
+ID6893,Male,30,S1,Business Development,5.31,6.0,No,7,10,8,Yes,Yes,77
+ID4871,Female,44,S1,Business Development,8.98,5.0,Yes,7,9,6,No,No,86
+ID9272,Female,19,SMP,Business Development,6.17,,No,8,9,10,No,Yes,99
+ID7164,Female,24,S3,Human Resources,7.97,4.0,No,9,8,9,Yes,Yes,88
+ID3616,Female,21,S2,Quality Assurance,5.53,5.0,No,5,6,6,No,Yes,91
+ID3193,Male,27,SMP,Business Development,5.1,4.0,No,6,8,8,Yes,Yes,98
+ID7335,Female,21,S1,Engineering,6.7,2.0,Yes,6,5,5,Yes,Yes,64
+ID9739,Female,44,SMA,Legal,8.31,6.0,Yes,9,8,10,Yes,Yes,85
+ID9329,Male,45,S1,Creative,8.32,4.0,No,10,7,10,Yes,Yes,79
+ID5969,Male,42,S3,Data,8.95,7.0,Yes,5,6,6,Yes,Yes,81
+ID4736,Female,21,S2,Finance,5.09,4.0,No,10,9,8,No,No,68
+ID3276,Female,42,S3,Quality Assurance,7.61,7.0,No,6,7,7,No,Yes,82
+ID7338,Male,42,S2,Product Management,7.58,6.0,No,8,8,7,Yes,Yes,84
+ID5665,Female,30,S2,Finance,5.6,2.0,No,6,10,9,Yes,No,91
+ID6601,Female,32,S1,Operations,5.94,3.0,Yes,9,9,8,Yes,Yes,71
+ID6183,Male,26,S1,Finance,5.89,4.0,No,7,7,7,Yes,No,95
+ID9440,Male,28,S2,Business Development,7.66,3.0,No,7,7,8,No,No,94
+ID3458,Female,22,S1,Quality Assurance,5.15,4.0,No,7,6,9,No,No,92
+ID4331,Male,45,S2,Finance,8.78,4.0,No,9,9,10,No,No,76
+ID7004,Female,39,S1,Legal,5.94,6.0,No,6,9,6,Yes,No,82
+ID3398,Male,34,S1,Operations,6.93,4.0,No,6,7,8,No,Yes,59
+ID1118,Female,25,SMA,Data,5.13,6.0,Yes,7,7,9,No,No,64
+ID5426,Male,31,S2,Operations,5.94,,No,10,7,8,No,No,99
+ID2629,Female,35,S3,Sales,6.93,5.0,No,9,10,10,No,Yes,78
+ID7969,Male,46,S2,Legal,8.23,5.0,No,6,7,7,Yes,Yes,80
+ID1158,Male,29,S3,Business Development,5.89,3.0,Yes,9,7,8,Yes,Yes,85
+ID1683,Female,28,S3,Creative,6.1,1.0,No,8,10,6,No,Yes,68
+ID3475,Male,38,S1,Operations,7.92,2.0,No,6,7,8,Yes,No,90
+ID9753,Female,22,SMA,Business Development,6.61,5.0,No,8,10,9,No,Yes,65
+ID7134,Male,35,S1,Operations,9.9,6.0,No,9,7,8,Yes,Yes,97
+,Male,20,SMP,Creative,7.57,6.0,No,10,8,6,Yes,Yes,63
+ID5520,Male,22,S2,Data,5.73,2.0,No,7,6,10,Yes,No,94
+ID2919,Male,48,SMP,Product Management,8.91,5.0,No,9,10,8,No,No,77
+ID6250,Male,49,S1,Sales,7.67,4.0,No,6,9,8,Yes,Yes,85
+ID1343,Female,38,S2,Human Resources,7.92,3.0,No,8,9,7,No,No,98
+ID3561,Female,39,SMA,Human Resources,7.92,1.0,No,9,8,6,No,No,62
+ID8393,Male,22,S2,Product Management,6.69,1.0,No,8,7,8,Yes,No,88
+ID5632,Male,20,S2,Finance,7.44,3.0,No,9,10,8,No,No,88
+ID6608,Male,29,S1,Creative,5.9,4.0,No,7,10,8,No,No,83
+ID2001,Female,49,S1,Legal,7.12,7.0,No,8,8,8,No,No,79
+ID6284,Male,36,S2,Business Development,7.92,5.0,No,6,7,10,Yes,Yes,82
+ID5084,Male,35,S1,Sales,7.92,2.0,No,8,10,7,Yes,Yes,69
+ID9534,Male,31,SMP,Data,6.93,5.0,No,7,7,10,Yes,No,76
+ID9698,Male,47,S2,Legal,8.02,5.0,Yes,6,7,7,No,Yes,80
+ID3752,Female,50,S2,Business Development,8.52,4.0,No,10,7,10,No,Yes,80
+ID4467,Male,36,SMA,Quality Assurance,8.91,2.0,No,7,6,6,Yes,Yes,86
+ID9724,Female,47,S2,Human Resources,8.87,6.0,No,6,9,10,No,Yes,78
+ID4481,Female,28,S1,Sales,5.19,2.0,No,10,10,7,No,Yes,78
+ID2535,Male,45,SMP,Operations,8.79,4.0,No,6,8,7,No,No,83
+ID9678,Female,31,S2,Product Management,8.91,4.0,No,8,7,9,No,Yes,90
+ID1154,Male,46,S2,Data,7.31,5.0,No,6,9,9,Yes,Yes,83
+ID9298,Female,38,SMA,Creative,9.9,6.0,No,7,7,7,No,Yes,87
+ID4542,Male,31,S2,Data,9.9,5.0,No,5,9,9,Yes,Yes,90
+ID1838,Female,28,S1,Product Management,5.89,3.0,No,6,10,9,No,Yes,79
+ID5170,Female,45,S2,Human Resources,8.51,5.0,No,7,7,10,No,Yes,85
+ID9023,Female,29,S2,Data,6.1,1.0,No,6,9,10,No,No,92
+ID1107,Female,49,S1,Product Management,7.5,4.0,No,6,7,9,Yes,Yes,83
+ID5629,Male,34,SMA,Finance,8.91,5.0,No,7,9,8,No,Yes,70
+ID2352,Male,30,S1,Data,5.87,,No,5,7,8,Yes,No,65
+ID6444,Female,41,S1,Data,7.72,6.0,Yes,6,6,7,No,Yes,80
+ID1634,Male,42,SMA,Engineering,7.98,4.0,No,7,5,6,No,Yes,87
+ID8251,Female,45,SMP,Business Development,7.16,3.0,No,9,8,8,No,No,78
+ID8430,Female,37,S1,Legal,7.92,5.0,No,9,10,7,No,Yes,83
+ID4917,Female,43,SMP,Operations,7.89,6.0,No,10,8,9,No,No,79
+ID5485,Female,33,S1,Finance,7.92,5.0,No,6,9,9,No,Yes,71
+ID2170,Female,37,SMP,Product Management,6.93,2.0,No,10,8,8,No,Yes,65
+ID8730,Male,43,S1,Engineering,8.7,5.0,Yes,9,6,5,No,Yes,79
+ID6138,Female,19,S2,Data,7.84,3.0,No,10,5,6,Yes,Yes,92
+ID7896,Female,20,S1,Product Management,6.74,6.0,No,7,10,7,No,No,94
+ID5000,Male,20,SMP,Sales,6.12,6.0,No,6,9,6,Yes,No,63
+ID4765,Female,35,S2,Operations,5.94,1.0,Yes,7,8,9,No,Yes,79
+ID4655,Male,42,S2,Business Development,7.85,1.0,Yes,7,9,7,No,Yes,88
+ID1804,Female,20,S1,Legal,6.68,,No,10,10,6,No,Yes,64
+ID1666,Female,50,S1,Data,8.13,5.0,No,8,6,5,No,Yes,87
+ID8535,Female,24,S2,Human Resources,6.93,6.0,No,9,10,7,No,Yes,68
+ID2133,Female,43,S2,Quality Assurance,8.3,7.0,No,6,7,6,No,Yes,76
+ID3895,Male,32,S2,Product Management,8.91,3.0,Yes,7,8,7,Yes,Yes,92
+ID7360,Male,23,S1,Legal,5.82,1.0,No,6,7,7,Yes,Yes,82
+ID5550,Male,39,S3,Quality Assurance,6.93,3.0,No,10,6,7,Yes,Yes,94
+ID2959,Male,38,S2,Legal,8.91,5.0,No,7,9,7,Yes,Yes,86
+ID9305,Female,26,S3,Business Development,5.77,1.0,No,7,8,6,Yes,Yes,91
+ID4043,Female,25,S1,Business Development,5.49,2.0,No,7,9,8,No,Yes,73
+ID5790,Female,26,SMP,Creative,5.99,1.0,No,7,10,8,No,Yes,99
+ID3729,Female,29,S1,Creative,7.33,6.0,No,10,8,9,No,Yes,88
+ID3364,Female,34,S2,Data,6.93,3.0,Yes,7,5,7,No,No,95
+ID8309,Female,30,S1,Legal,7.18,5.0,No,9,8,8,Yes,No,98
+ID8002,Male,51,S1,Legal,8.18,4.0,No,6,9,8,Yes,No,81
+ID8974,Male,21,SMP,Creative,7.51,1.0,No,9,9,10,Yes,Yes,91
+ID4069,Female,41,S1,Operations,7.77,7.0,No,10,10,10,No,Yes,89
+ID2482,Female,27,SMP,Operations,6.41,3.0,No,9,10,7,No,Yes,79
+ID3303,Female,40,S1,Creative,7.51,4.0,No,7,8,9,No,No,76
+ID4559,Female,31,S3,Product Management,7.92,1.0,No,7,8,8,No,Yes,100
+ID6106,Female,22,S1,Creative,6.93,6.0,No,10,8,7,No,Yes,90
+ID2367,Male,27,S3,Operations,6.93,,No,7,9,9,No,Yes,94
+ID7723,Male,26,SMP,Quality Assurance,9.9,,No,6,6,6,Yes,No,98
+ID1976,Female,29,SMA,Legal,6.93,4.0,No,6,10,8,No,Yes,60
+ID5019,Female,27,S2,Operations,7.92,3.0,No,7,8,6,No,Yes,86
+ID9631,Female,30,S1,Marketing,6.93,4.0,No,9,7,6,Yes,Yes,82
+ID6425,Female,31,S1,Creative,7.92,3.0,No,8,7,6,No,No,77
+ID4971,Female,32,S2,Operations,5.94,2.0,No,8,10,7,Yes,No,84
+ID2902,Male,31,S1,Business Development,8.91,1.0,No,9,8,8,Yes,Yes,88
+ID4397,Male,50,S2,Marketing,7.64,4.0,No,8,7,6,Yes,Yes,88
+ID9439,Female,36,S2,Quality Assurance,6.93,5.0,No,5,5,9,No,No,95
+ID4037,Male,45,S1,Legal,7.3,5.0,No,6,7,9,Yes,Yes,89
+ID3555,Male,39,SMP,Legal,6.93,1.0,No,10,9,8,No,No,95
+ID3403,Female,31,S2,Legal,6.93,,No,6,10,8,No,Yes,93
+ID3015,Male,34,S2,Engineering,7.92,4.0,Yes,6,6,7,Yes,No,89
+ID4516,Female,30,S1,Sales,7.92,2.0,No,6,7,7,No,Yes,88
+ID1904,Male,22,S1,Legal,8.91,6.0,No,10,9,10,Yes,Yes,73
+ID7319,Male,37,S1,Marketing,6.93,,No,7,10,9,Yes,No,70
+ID1497,Male,49,S1,Finance,8.71,6.0,No,9,7,10,No,Yes,82
+ID7900,Male,39,S1,Creative,9.9,3.0,No,6,8,6,No,No,84
+ID3402,Female,30,SMA,Human Resources,7.92,4.0,No,6,10,8,No,Yes,88
+ID6507,Male,46,S2,Human Resources,8.88,3.0,No,6,9,10,No,Yes,87
+ID2893,Female,41,S2,Creative,5.94,4.0,No,8,9,9,No,Yes,79
+ID8851,Male,44,S2,Sales,7.92,1.0,No,9,9,9,No,Yes,87
+ID3394,Female,38,S1,Human Resources,6.93,5.0,No,7,8,6,Yes,No,67
+ID4371,Male,49,S3,Business Development,6.93,4.0,No,9,8,6,Yes,No,80
+ID5423,Female,41,SMA,Legal,6.93,7.0,No,9,10,7,No,No,86
+ID2801,Male,26,SMP,Legal,6.93,,No,8,9,9,No,Yes,69
+ID8980,Male,19,S2,Data,6.93,1.0,No,5,7,7,No,Yes,79
+ID4904,Male,28,S2,Product Management,8.91,5.0,No,7,8,6,No,Yes,85
+ID7057,Male,47,S1,Quality Assurance,8.91,5.0,No,6,8,7,Yes,Yes,85
+ID7942,Male,30,S3,Business Development,5.94,6.0,No,8,10,8,No,Yes,85
+ID4513,Female,23,S2,Engineering,5.94,4.0,Yes,7,9,6,No,No,83
+ID6418,Female,19,SMA,Data,5.94,6.0,Yes,6,6,5,No,Yes,61
+ID9151,Male,29,S1,Product Management,8.91,3.0,No,6,7,8,No,Yes,75
+ID2456,Male,35,S2,Sales,9.9,2.0,No,9,7,6,Yes,Yes,95
+ID9145,Male,41,S1,Engineering,8.91,7.0,Yes,10,7,6,No,No,79
+ID4563,Female,45,S1,Marketing,7.92,5.0,No,6,7,6,No,Yes,81
+ID3374,Male,36,S1,Engineering,9.9,6.0,No,7,6,5,Yes,Yes,72
+ID1266,Male,39,SMA,Human Resources,5.94,4.0,No,10,7,6,No,Yes,70
+ID1185,Male,50,SMA,Quality Assurance,6.93,7.0,Yes,6,7,6,Yes,No,82
+ID5021,Female,31,SMP,Creative,7.92,5.0,No,10,7,8,No,Yes,99
+ID7332,Male,29,S3,Engineering,7.92,1.0,No,7,6,7,No,Yes,79
+ID8494,Male,22,S1,Product Management,5.94,5.0,No,7,10,10,Yes,Yes,64
+ID5379,Male,27,S2,Legal,6.93,3.0,No,9,8,10,Yes,Yes,88
+ID7926,Female,32,S2,Data,5.94,1.0,No,8,9,7,Yes,No,88
+ID7026,Female,20,S3,Sales,5.94,6.0,No,7,9,8,Yes,Yes,64
+ID4474,Male,27,SMP,Creative,6.93,1.0,No,7,10,6,Yes,Yes,98
+ID1595,Male,29,S3,Quality Assurance,9.9,2.0,No,7,7,10,No,Yes,86
+ID4636,Male,33,S1,Marketing,7.92,3.0,No,10,9,7,Yes,No,99
+ID6664,Male,39,S2,Creative,9.9,5.0,No,9,7,8,Yes,No,63
+ID6392,Female,41,SMP,Legal,9.9,5.0,No,6,10,10,No,Yes,84
+ID1220,Female,49,SMA,Data,9.9,4.0,No,6,6,8,No,No,76
+ID7661,Female,20,S1,Human Resources,8.91,6.0,No,9,10,8,Yes,No,63
+ID4736,Male,38,S1,Operations,5.94,1.0,No,7,8,7,Yes,Yes,96
+ID1096,Male,25,S1,Human Resources,9.9,6.0,No,7,8,6,No,No,99
+ID4968,Male,29,S2,Sales,5.94,5.0,No,7,10,9,Yes,Yes,92
+ID7359,Female,22,S2,Marketing,7.92,,No,9,8,7,Yes,No,81
+ID8887,Female,40,S3,Operations,6.93,4.0,No,9,8,9,No,Yes,80
+ID3445,Female,29,S2,Legal,7.92,3.0,No,8,7,10,No,Yes,95
+ID6515,Female,42,S3,Marketing,9.9,5.0,No,8,10,9,Yes,Yes,83
+ID7827,Female,31,SMA,Product Management,6.93,3.0,No,8,7,7,No,Yes,59
+ID4920,Male,37,S3,Finance,5.94,1.0,No,6,10,8,No,Yes,88
+ID2468,Female,22,S2,Data,6.93,4.0,Yes,5,5,9,No,Yes,90
+ID9357,Female,24,S2,Sales,5.94,6.0,No,9,6,7,No,Yes,78
+ID6331,Female,26,S1,Finance,9.9,1.0,No,7,10,6,No,No,67
+ID4272,Female,28,S2,Human Resources,7.92,3.0,No,8,8,8,No,Yes,92
+ID4001,Female,30,SMA,Finance,6.93,5.0,No,8,10,7,No,Yes,67
+ID4651,Female,46,S1,Business Development,9.9,6.0,No,6,10,6,No,Yes,70
+ID4097,Male,25,S1,Product Management,8.91,6.0,No,10,9,8,No,Yes,93
+ID3459,Female,32,S3,Business Development,7.92,3.0,Yes,8,10,6,Yes,Yes,91
+ID4564,Female,46,S2,Marketing,7.92,4.0,No,8,8,9,No,Yes,98
+ID6663,Male,41,SMP,Finance,7.92,4.0,No,7,9,6,Yes,No,68
+ID1277,Male,37,SMA,Legal,7.92,1.0,No,9,7,8,Yes,No,60
+ID1703,Female,44,SMP,Sales,5.94,6.0,No,8,7,7,Yes,No,69
+ID7747,Female,41,S1,Legal,5.94,6.0,No,6,6,9,No,Yes,84
+ID3631,Male,51,SMA,Operations,9.9,5.0,No,10,8,10,No,Yes,64
+ID9396,Male,38,SMP,Operations,6.93,,No,9,7,8,Yes,Yes,83
+ID8941,Male,34,S2,Engineering,8.91,5.0,No,6,6,10,Yes,Yes,97
+ID9394,Male,44,SMA,Data,9.9,5.0,No,5,5,8,Yes,Yes,82
+ID6169,Male,25,S2,Human Resources,5.94,3.0,No,10,9,8,No,Yes,98
+ID7070,Male,48,S1,Creative,6.93,6.0,No,6,10,8,Yes,Yes,80
+ID7106,Male,29,S1,Sales,8.91,3.0,No,7,8,6,No,No,75
+ID2502,Male,34,S2,Operations,6.93,,No,6,10,9,Yes,Yes,93
+ID7044,Female,35,S2,Business Development,9.9,6.0,Yes,7,6,10,No,No,97
+ID7279,Male,23,S1,Creative,8.91,,No,6,10,6,Yes,Yes,77
+ID4341,Male,20,S2,Data,7.92,6.0,No,6,6,7,No,No,82
+ID2795,Female,20,S2,Quality Assurance,6.93,5.0,No,7,7,10,Yes,No,93
+ID4464,Female,32,S3,Human Resources,8.91,1.0,No,10,10,9,Yes,Yes,84
+ID1537,Male,30,SMP,Creative,9.9,5.0,No,7,8,9,No,Yes,86
+ID7700,Female,48,S1,Finance,9.9,6.0,No,6,10,7,No,No,66
+ID5929,Female,45,S1,Human Resources,8.91,4.0,No,7,10,10,No,No,87
+ID3354,Female,32,S2,Data,6.93,5.0,No,6,10,9,No,No,64
+ID4613,Male,32,S1,Product Management,6.93,2.0,No,6,8,10,Yes,No,73
+ID2425,Male,27,S2,Creative,9.9,5.0,No,7,7,6,No,Yes,98
+ID6948,Male,34,S2,Business Development,8.91,2.0,No,9,9,6,Yes,Yes,84
+ID1316,Male,43,S2,Creative,7.92,4.0,Yes,7,8,9,Yes,Yes,78
+ID3144,Female,36,S1,Human Resources,5.94,5.0,No,6,8,9,No,No,78
+ID3892,Male,49,S3,Marketing,8.91,7.0,No,8,7,6,Yes,Yes,90
+ID6520,Female,19,S1,Human Resources,6.93,,No,10,10,10,No,Yes,68
+ID2405,Female,45,S2,Finance,5.94,5.0,Yes,10,8,9,No,Yes,87
+ID7577,Female,46,S2,Sales,5.94,7.0,No,6,10,10,No,Yes,87
+ID4592,Female,41,S1,Human Resources,7.48,5.0,No,9,9,7,No,No,99
+ID5282,Female,40,SMA,Data,8.95,6.0,No,6,8,6,No,Yes,68
+ID1817,Male,48,S1,Sales,8.55,5.0,No,10,7,9,Yes,Yes,63
+ID5027,Female,33,S3,Sales,7.92,6.0,No,7,8,6,No,Yes,79
+ID7270,Female,26,S3,Business Development,6.93,1.0,No,8,10,6,No,No,88
+ID6256,Female,20,S3,Engineering,6.93,,No,7,9,7,Yes,No,97
+ID6787,Male,44,S1,Creative,8.08,6.0,No,8,8,9,No,No,98
+ID7349,Male,20,S2,Legal,9.9,6.0,No,10,9,9,Yes,Yes,63
+ID6985,Male,38,S2,Legal,7.92,1.0,No,10,9,8,Yes,Yes,86
+ID6069,Male,41,S2,Marketing,8.98,7.0,No,8,8,6,No,Yes,94
+ID1198,Female,30,S2,Legal,7.92,5.0,No,9,9,8,No,Yes,94
+ID5329,Female,50,S1,Data,8.31,7.0,No,9,8,6,No,Yes,85
+ID6135,Female,41,S3,Legal,8.32,5.0,No,7,7,10,No,No,90
+ID1862,Female,19,S1,Sales,7.92,6.0,No,8,8,7,Yes,Yes,92
+ID5274,Male,46,S1,Human Resources,8.95,1.0,No,10,8,10,Yes,Yes,92
+ID1297,Female,33,SMA,Engineering,7.92,1.0,No,7,8,5,Yes,No,92
+ID2606,Male,32,S2,Human Resources,5.94,,No,7,9,7,Yes,Yes,97
+ID2022,Female,46,SMA,Legal,7.61,6.0,No,6,8,8,Yes,No,80
+ID4752,Female,41,SMP,Operations,7.58,4.0,No,7,8,10,No,No,98
+ID8323,Female,40,S2,Finance,8.78,7.0,No,8,7,7,No,Yes,93
+ID9881,Female,47,S1,Business Development,8.23,1.0,Yes,9,6,7,No,Yes,66
+ID3903,Female,39,S1,Operations,7.92,1.0,No,9,6,9,No,No,66
+ID6006,Female,22,S1,Marketing,5.94,6.0,Yes,9,10,8,No,No,64
+ID5980,Male,19,S1,Product Management,6.93,2.0,No,6,10,9,Yes,No,87
+ID2177,Male,50,SMA,Quality Assurance,8.91,7.0,No,9,8,6,Yes,No,60
+ID6990,Male,26,S1,Marketing,6.93,4.0,No,8,7,8,Yes,No,83
+ID3037,Female,31,S2,Data,6.93,,No,10,6,5,No,No,91
+ID7546,Female,40,S2,Engineering,7.67,6.0,No,7,7,6,Yes,No,93
+ID7737,Male,50,SMP,Engineering,7.12,6.0,No,10,6,7,Yes,Yes,89
+ID6867,Male,37,S1,Product Management,8.91,5.0,No,6,10,10,Yes,No,96
+ID3804,Female,23,S2,Creative,7.92,,Yes,6,8,8,No,No,97
+ID2590,Female,28,S1,Human Resources,7.92,6.0,No,6,9,6,Yes,Yes,64
+ID9030,Male,19,S2,Finance,5.94,3.0,No,9,7,9,Yes,No,94
+ID3309,Male,24,S3,Legal,8.91,5.0,No,7,8,8,No,No,87
+ID4112,Female,36,S1,Data,5.94,3.0,No,9,7,9,No,No,78
+ID9302,Female,47,S1,Creative,8.02,6.0,No,6,9,6,No,Yes,68
+ID2494,Male,48,S2,Quality Assurance,8.52,6.0,No,6,6,6,Yes,Yes,94
+ID5010,Female,40,SMP,Engineering,8.87,6.0,No,7,10,7,Yes,Yes,90
+ID2452,Female,24,S1,Product Management,5.94,6.0,Yes,6,8,10,Yes,No,88
+ID8802,Female,35,S3,Business Development,5.94,3.0,No,8,10,9,Yes,No,96
+ID2168,Male,50,SMA,Product Management,8.79,5.0,No,9,7,8,Yes,Yes,72
+ID3311,Female,43,S2,Sales,7.31,6.0,No,7,9,6,No,No,85
+ID2628,Male,19,S1,Sales,5.94,2.0,No,8,10,6,Yes,Yes,86
+ID4614,Female,35,SMP,Data,7.92,5.0,No,6,7,6,Yes,No,85
+ID4075,Female,23,S2,Marketing,5.94,3.0,No,6,9,7,No,No,100
+ID7477,Male,35,SMP,Legal,5.94,3.0,No,10,8,9,No,Yes,100
+ID8719,Female,30,SMP,Finance,8.91,,No,7,7,7,No,No,76
+ID6902,Male,39,SMA,Creative,5.94,6.0,No,6,8,7,No,No,69
+ID1797,Female,48,SMA,Business Development,8.51,5.0,No,9,6,6,No,Yes,70
+ID9224,Female,40,S3,Legal,7.5,6.0,No,6,6,6,No,Yes,80
+ID9950,Female,50,S1,Quality Assurance,7.72,6.0,No,7,6,7,No,No,87
+ID6274,Female,43,S2,Creative,7.98,7.0,Yes,10,10,8,No,No,90
+ID4540,Female,36,S1,Quality Assurance,6.93,6.0,No,6,5,6,No,No,99
+ID8431,Female,39,S3,Marketing,7.92,4.0,No,9,8,8,No,No,90
+ID6871,Female,38,S1,Marketing,6.93,1.0,No,9,9,6,No,No,97
+ID7364,Female,48,SMP,Quality Assurance,7.16,7.0,No,5,6,8,No,Yes,90
+ID6869,Female,44,S3,Creative,7.89,5.0,Yes,9,9,9,Yes,Yes,81
+ID7704,Female,51,S2,Engineering,8.7,6.0,No,6,5,9,No,Yes,90
+ID2694,Male,44,S2,Operations,7.85,5.0,No,8,10,6,Yes,No,80
+ID9754,Female,28,S2,Marketing,6.93,5.0,No,10,9,9,No,No,79
+ID3261,Male,44,S2,Business Development,8.13,7.0,No,6,7,9,No,No,88
+ID4739,Female,23,S2,Product Management,6.93,1.0,No,6,8,7,Yes,No,86
+ID5339,Male,30,S3,Business Development,7.92,3.0,No,6,10,8,Yes,Yes,100
+ID9124,Female,30,S2,Data,9.9,2.0,No,5,6,8,No,No,85
+ID9013,Female,49,SMA,Quality Assurance,8.3,5.0,No,6,7,7,Yes,Yes,71
+ID2973,Male,39,S2,Finance,8.91,4.0,No,9,9,9,Yes,No,84
+ID8050,Male,27,S1,Sales,9.9,1.0,No,8,8,6,No,No,75
+ID8073,Female,49,SMP,Finance,8.18,5.0,No,8,10,9,No,No,75
+ID9682,Female,44,SMP,Legal,7.77,4.0,No,8,9,9,Yes,Yes,99
+ID3501,Female,38,S1,Quality Assurance,9.9,2.0,No,7,7,6,No,Yes,78
+ID7323,Male,48,S2,Engineering,7.51,4.0,No,10,9,5,Yes,Yes,97
+ID5700,Female,37,SMP,Business Development,9.9,1.0,No,6,8,7,No,No,88
+ID2429,Female,48,S2,Quality Assurance,7.64,4.0,No,8,6,6,Yes,Yes,88
+ID5051,Male,48,SMA,Business Development,7.3,4.0,No,7,7,6,Yes,Yes,98
+ID8372,Male,25,S1,Human Resources,7.92,,No,7,8,9,Yes,Yes,63
+ID4583,Female,23,S2,Finance,8.91,4.0,No,6,10,7,No,Yes,90
+ID7172,Female,43,S2,Creative,8.71,4.0,No,9,9,9,No,Yes,86
+ID8802,Male,41,S2,Marketing,8.88,6.0,No,8,9,9,Yes,Yes,77
+ID1493,Female,49,S1,Creative,9.9,7.0,No,8,7,8,No,No,85
+ID9152,Male,43,S2,Business Development,6.93,5.0,No,8,10,9,Yes,Yes,79
+ID1282,Male,35,S1,Business Development,7.92,5.0,No,10,10,10,No,Yes,77
+ID8457,Female,43,SMP,Legal,8.91,5.0,No,8,9,7,No,Yes,80
+ID4479,Female,34,S3,Human Resources,7.92,4.0,No,7,10,7,No,Yes,98
+ID5792,Male,45,S2,Operations,5.94,4.0,No,6,10,9,No,Yes,80
+ID7225,Female,49,S2,Product Management,7.92,4.0,Yes,6,10,8,No,Yes,78
+ID6238,Female,39,S1,Sales,5.94,1.0,No,6,7,10,No,No,61
+ID8426,Female,29,S2,Operations,7.92,3.0,No,7,10,7,Yes,Yes,86
+ID3354,Female,49,S3,Engineering,7.92,7.0,No,7,6,5,No,Yes,83
+ID6615,Female,24,S2,Sales,6.93,1.0,No,7,7,6,No,Yes,95
+ID7923,Male,29,SMP,Marketing,7.92,4.0,No,7,10,9,No,No,59
+ID5364,Male,21,S1,Marketing,6.93,6.0,No,9,9,10,Yes,No,83
+ID5452,Male,31,S3,Legal,6.93,5.0,No,10,9,9,No,Yes,91
+ID2594,Female,30,S1,Operations,5.94,,No,8,9,10,No,No,87
+ID1844,Female,36,S2,Data,6.93,3.0,Yes,6,7,7,Yes,No,86
+ID9364,Male,45,SMA,Quality Assurance,6.93,7.0,No,7,5,5,Yes,No,85
+ID1563,Male,40,S2,Legal,5.94,7.0,No,7,9,10,No,Yes,83
+ID1276,Female,49,S2,Data,9.9,5.0,No,6,6,6,No,Yes,80
+ID1233,Female,44,S2,Product Management,8.91,3.0,Yes,7,7,7,Yes,No,87
+ID9290,Female,46,S2,Engineering,8.91,6.0,Yes,5,5,5,No,No,78
+ID6915,Female,40,S1,Quality Assurance,7.92,4.0,No,6,6,6,Yes,No,79
+ID3928,Female,37,S1,Operations,7.92,6.0,Yes,7,9,7,No,No,72
+ID2808,Male,19,S1,Engineering,8.91,,No,5,7,7,No,Yes,63
+ID8420,Male,27,S1,Finance,7.92,2.0,No,10,10,7,Yes,Yes,96
+ID2110,Male,31,S3,Finance,6.93,5.0,No,6,9,7,Yes,No,84
+ID3623,Male,34,S3,Creative,5.94,3.0,No,8,9,9,Yes,No,99
+ID5953,Female,21,S3,Engineering,6.93,2.0,No,6,6,7,Yes,No,92
+ID8471,Female,40,SMA,Business Development,6.93,4.0,No,8,9,6,No,Yes,79
+ID2868,Male,29,SMA,Finance,6.93,,No,9,8,8,Yes,No,98
+ID8938,Male,35,S2,Product Management,5.94,5.0,No,8,8,10,Yes,Yes,96
+ID9727,Female,49,S2,Sales,6.93,4.0,No,8,7,9,No,No,88
+ID8487,Male,21,S1,Business Development,5.94,1.0,No,7,8,9,No,Yes,85
+ID4478,Male,24,S1,Sales,5.94,,No,6,9,9,No,No,80
+ID9530,Female,26,S1,Data,6.93,5.0,Yes,7,7,9,Yes,No,71
+ID6113,Female,34,S2,Finance,6.93,3.0,No,8,10,8,No,Yes,91
+ID9470,Female,29,S1,Operations,5.94,3.0,No,7,8,9,No,Yes,65
+ID8847,Female,42,S1,Quality Assurance,8.91,7.0,No,6,6,8,No,No,87
+ID9891,Female,30,SMA,Sales,6.93,4.0,No,8,7,7,No,No,76
+ID4806,Male,38,S3,Business Development,6.93,5.0,No,6,8,6,Yes,Yes,94
+ID4385,Female,22,S2,Operations,5.94,,No,10,10,7,No,No,98
+ID4387,Female,47,S1,Creative,5.94,4.0,No,9,8,9,No,No,76
+ID3572,Female,25,SMP,Creative,6.93,4.0,Yes,6,9,9,No,Yes,68
+ID5914,Male,38,S2,Marketing,7.92,2.0,No,7,8,6,No,Yes,88
+ID6026,Male,31,SMA,Operations,5.94,,No,7,9,8,Yes,No,85
+ID9957,Female,41,S3,Data,6.93,6.0,Yes,7,6,7,No,No,81
+ID3308,Male,43,S1,Operations,6.93,6.0,No,8,9,10,No,No,89
+ID4337,Male,33,S2,Data,5.94,2.0,Yes,9,10,9,No,Yes,82
+ID5300,Male,41,S2,Finance,5.94,5.0,No,10,9,8,Yes,Yes,76
+ID5517,Male,42,S1,Human Resources,7.92,5.0,No,8,8,9,Yes,Yes,88
+ID5278,Male,41,S2,Creative,9.9,5.0,No,9,9,10,No,Yes,89
+ID9560,Female,41,S3,Creative,7.92,5.0,No,7,10,9,Yes,Yes,82
+ID5325,Male,46,S3,Quality Assurance,5.94,4.0,No,6,10,8,Yes,No,87
+ID3666,Male,36,SMA,Legal,6.93,3.0,No,9,8,9,Yes,No,62
+ID8694,Male,23,S1,Creative,8.91,4.0,No,8,7,9,Yes,Yes,85
+ID7418,Female,47,SMA,Product Management,6.93,6.0,No,6,10,10,Yes,No,79
+ID9763,Male,40,SMP,Finance,5.94,5.0,No,9,9,8,Yes,No,87
+ID8527,Female,37,S2,Engineering,6.93,,Yes,6,7,7,No,No,100
+ID2193,Female,42,S3,Legal,7.92,7.0,No,8,10,10,Yes,Yes,80
+ID9303,Female,19,S1,Finance,7.92,4.0,No,9,9,7,No,Yes,62
+ID7546,Male,31,S2,Data,7.92,3.0,No,8,10,9,Yes,No,93
+ID9069,Male,45,S1,Product Management,9.9,5.0,No,7,7,7,No,No,86
+ID9223,Male,42,SMP,Creative,8.91,7.0,No,8,9,6,Yes,Yes,85
+ID4113,Male,34,S2,Operations,6.93,,No,9,7,10,Yes,Yes,92
+ID7711,Female,42,S1,Sales,6.93,6.0,Yes,9,7,7,Yes,Yes,79
+ID1132,Male,26,S3,Data,8.91,4.0,No,7,10,7,No,Yes,92
+ID3726,Female,25,S1,Data,6.93,4.0,No,7,6,7,No,Yes,78
+ID4684,Female,45,SMA,Quality Assurance,6.93,4.0,No,9,6,10,Yes,No,81
+ID1596,Female,21,S1,Legal,9.9,2.0,No,6,7,6,No,Yes,88
+ID7573,Male,30,SMA,Business Development,7.92,,No,7,7,9,No,Yes,98
+ID2588,Female,47,S1,Creative,6.93,4.0,No,8,10,9,No,Yes,82
+ID1499,Male,43,S2,Human Resources,6.93,4.0,No,9,10,8,No,No,84
+ID1846,Female,25,SMA,Sales,7.92,1.0,No,9,7,9,No,Yes,96
+ID7833,Male,35,S3,Marketing,7.92,5.0,No,8,9,7,No,Yes,86
+ID2258,Male,36,SMP,Product Management,9.9,6.0,No,6,9,7,Yes,No,68
+ID8982,Female,36,S1,Data,6.93,3.0,No,9,8,8,No,Yes,67
+ID6204,Male,51,S1,Quality Assurance,5.94,6.0,No,10,9,7,Yes,No,76
+ID9276,Female,23,S2,Human Resources,7.92,4.0,No,10,7,8,Yes,Yes,83
+ID3394,Female,48,SMP,Finance,5.94,5.0,No,7,10,10,Yes,No,80
+ID6824,Female,48,S1,Business Development,6.93,5.0,Yes,10,10,10,No,No,83
+ID6822,Male,37,SMP,Data,8.91,1.0,No,7,8,7,Yes,Yes,99
+ID9051,Male,25,SMA,Sales,6.93,3.0,No,8,9,10,No,No,97
+ID6887,Female,31,S1,Data,6.93,,Yes,10,7,7,No,No,81
+ID1173,Female,27,S2,Product Management,7.92,1.0,No,10,8,7,No,Yes,86
+ID8430,Female,31,S2,Engineering,7.92,3.0,No,7,6,6,No,No,92
+ID2057,Female,21,S1,Sales,5.94,3.0,No,9,9,8,No,No,84
+ID2190,Male,30,S3,Quality Assurance,6.93,5.0,No,7,5,5,Yes,Yes,94
+ID7893,Female,41,S2,Sales,6.93,5.0,No,9,7,9,No,Yes,86
+ID5001,Female,50,SMP,Quality Assurance,6.93,6.0,Yes,6,6,6,No,Yes,92
+ID7991,Female,29,S1,Sales,5.94,3.0,No,8,7,9,No,Yes,79
+ID3559,Female,35,S2,Operations,5.94,6.0,No,10,8,6,Yes,Yes,91
+ID8111,Male,26,S1,Finance,8.91,1.0,No,10,8,7,No,Yes,98
+ID3675,Male,22,S1,Quality Assurance,9.9,1.0,No,5,5,5,Yes,Yes,90
+ID9057,Female,50,S2,Operations,7.92,6.0,No,9,8,6,Yes,No,95
+ID5043,Male,23,S2,Finance,7.92,3.0,No,10,8,9,No,Yes,100
+ID1999,Male,49,S2,Legal,7.92,6.0,No,6,9,10,Yes,Yes,94
+ID1205,Male,47,S2,Quality Assurance,9.9,7.0,No,6,6,6,Yes,Yes,86
+ID5655,Male,19,S3,Creative,5.94,1.0,No,10,8,10,Yes,Yes,84
+ID2495,Female,25,SMA,Engineering,7.92,6.0,Yes,5,7,7,No,No,91
+ID1670,Male,27,S3,Legal,6.93,1.0,No,10,8,10,Yes,Yes,90
+ID2668,Male,37,S1,Finance,8.91,5.0,No,6,10,6,No,No,78
+ID7083,Female,49,S2,Marketing,5.94,4.0,Yes,7,7,8,No,Yes,95
+ID1796,Male,25,SMP,Marketing,6.93,4.0,No,7,10,10,No,No,75
+ID1411,Female,48,S2,Marketing,5.94,7.0,No,10,7,7,No,Yes,93
+ID7194,Male,48,SMP,Sales,5.94,4.0,No,6,7,10,No,Yes,60
+ID5387,Female,31,S3,Operations,6.93,5.0,Yes,7,8,6,Yes,Yes,89
+ID4215,Female,24,S2,Operations,5.94,1.0,No,6,10,6,Yes,Yes,88
+ID6352,Male,30,S3,Data,9.9,6.0,Yes,6,9,10,Yes,Yes,93
+ID7743,Female,20,S1,Product Management,6.93,,No,10,10,8,No,No,82
+ID7839,Female,27,S1,Product Management,8.91,2.0,No,9,10,10,No,Yes,95
+ID9330,Male,32,S1,Legal,5.94,3.0,No,9,10,8,Yes,No,89
+ID8439,Female,36,S1,Operations,7.92,1.0,No,7,7,7,No,Yes,90
+ID4120,Male,36,S2,Data,7.92,6.0,Yes,7,9,10,Yes,Yes,89
+ID9144,Female,39,S1,Marketing,9.9,4.0,No,8,8,8,No,No,94
+ID4720,Male,49,SMP,Legal,6.93,5.0,No,6,7,6,No,Yes,68
+ID7899,Female,44,S1,Quality Assurance,9.9,7.0,No,8,7,8,No,No,95
+ID7731,Male,39,S2,Quality Assurance,6.93,2.0,No,7,10,6,Yes,Yes,95
+ID5205,Female,37,S3,Creative,9.9,2.0,Yes,10,7,9,Yes,Yes,79
+ID6579,Male,24,S2,Legal,5.94,3.0,Yes,7,8,8,No,Yes,85
+ID9173,Female,31,S1,Business Development,7.92,1.0,No,10,7,8,No,No,76
+ID5201,Male,44,SMA,Business Development,6.93,5.0,No,8,8,6,No,Yes,81
+ID5826,Female,21,S2,Data,6.93,5.0,No,6,6,7,No,Yes,86
+ID1188,Female,32,S2,Business Development,6.93,6.0,Yes,7,6,8,No,Yes,83
+ID9099,Male,29,S2,Product Management,6.93,2.0,No,9,8,10,No,No,95
+ID7234,Female,20,S3,Data,6.93,2.0,No,5,8,6,No,Yes,90
+ID5244,Male,25,S3,Creative,7.92,2.0,No,9,7,8,Yes,Yes,99
+ID1809,Female,43,SMA,Sales,5.94,6.0,No,7,10,8,Yes,No,78
+ID1326,Male,44,S1,Creative,7.92,5.0,No,8,9,7,No,No,68
+ID2266,Male,44,S1,Creative,6.93,6.0,No,8,8,6,No,Yes,74
+ID8016,Female,46,S1,Business Development,9.9,4.0,No,9,9,9,No,Yes,78
+ID6624,Male,39,S2,Business Development,6.93,1.0,No,6,8,8,Yes,Yes,88
+ID7201,Male,39,S1,Quality Assurance,6.93,6.0,Yes,6,7,10,Yes,No,80
+ID9571,Female,38,S2,Finance,6.93,,No,7,10,6,No,Yes,99
+ID8096,Female,22,S2,Human Resources,5.94,6.0,No,6,8,8,No,No,86
+ID8525,Male,24,SMA,Creative,7.92,1.0,No,10,10,10,No,Yes,92
+ID2145,Male,40,S2,Quality Assurance,8.91,7.0,No,5,6,10,Yes,Yes,84
+ID3606,Male,29,SMA,Engineering,9.9,2.0,No,6,5,7,No,Yes,85
+ID7407,Male,31,S2,Human Resources,8.91,2.0,No,8,7,6,No,Yes,92
+ID3434,Male,20,S1,Finance,6.93,5.0,No,6,9,7,Yes,No,62
+ID1419,Male,46,S2,Legal,6.93,5.0,No,10,9,9,No,No,81
+ID9495,Male,41,S1,Product Management,9.9,7.0,No,9,8,8,Yes,No,70
+ID1486,Male,46,S2,Marketing,9.9,,No,7,7,6,Yes,Yes,79
+ID4603,Male,36,S1,Operations,6.93,2.0,No,10,10,8,No,Yes,63
+ID2494,Male,35,SMA,Quality Assurance,8.91,3.0,No,7,6,6,Yes,Yes,60
+ID5114,Female,46,S2,Marketing,9.9,6.0,No,6,9,6,No,No,95
+ID8429,Female,21,S1,Legal,9.9,,Yes,8,10,9,No,No,63
+ID1320,Female,23,S2,Legal,8.91,5.0,No,6,9,9,No,No,61
+ID6765,Female,43,S3,Legal,9.9,6.0,No,8,8,7,No,Yes,88
+ID9168,Female,26,SMA,Finance,9.9,3.0,No,8,8,6,No,No,61
+ID9878,Male,44,SMP,Creative,7.92,5.0,No,9,10,9,Yes,No,64
+ID5294,Male,44,S2,Marketing,6.93,5.0,No,8,9,10,Yes,No,90
+ID5888,Male,28,S2,Product Management,6.93,4.0,No,6,10,10,No,No,61
+ID7945,Male,37,S1,Product Management,5.94,5.0,No,6,8,10,Yes,Yes,59
+ID5853,Male,48,S1,Data,6.93,7.0,No,8,5,5,Yes,No,90
+ID8379,Female,19,S2,Creative,5.94,2.0,No,8,8,7,No,Yes,62
+ID7799,Female,36,SMP,Legal,6.93,6.0,Yes,9,9,7,No,Yes,62
+ID1382,Male,21,SMP,Legal,5.94,4.0,No,9,8,7,Yes,No,62
+ID3415,Male,41,S2,Product Management,9.9,4.0,No,10,8,10,Yes,Yes,91
+ID6283,Female,30,S3,Business Development,7.92,1.0,No,8,8,10,Yes,Yes,62
+ID6491,Female,36,SMA,Engineering,6.93,5.0,No,8,6,6,Yes,No,61
+ID9899,Female,46,S1,Data,8.91,6.0,Yes,10,7,5,No,Yes,97
+ID7593,Female,21,SMP,Engineering,9.9,4.0,Yes,10,8,6,No,Yes,61
+ID4573,Male,37,S1,Legal,8.91,,No,8,9,8,No,No,62
+ID3413,Female,32,S1,Sales,5.94,3.0,No,7,7,6,No,No,61
+ID9735,Male,22,S1,Sales,7.92,2.0,No,7,9,8,No,No,63
+ID2150,Male,26,S1,Operations,6.93,,No,7,8,9,Yes,Yes,59
+ID3695,Male,36,S2,Finance,7.92,3.0,No,8,9,9,No,Yes,59
+ID4489,Male,25,S1,Operations,5.94,2.0,No,7,9,6,Yes,Yes,62
+ID7519,Male,34,S1,Quality Assurance,8.91,2.0,No,6,8,7,Yes,No,59
+ID8845,Male,22,SMP,Marketing,6.93,6.0,No,10,7,8,Yes,Yes,63
+ID8977,Female,33,S1,Marketing,7.92,5.0,No,6,6,8,No,No,59
+ID8985,Female,48,S2,Legal,8.91,5.0,No,9,6,8,Yes,Yes,93
+ID8671,Male,43,S3,Sales,6.93,6.0,No,9,9,8,Yes,Yes,83
+ID4810,Male,21,S1,Product Management,5.94,,No,6,7,7,Yes,No,63
+ID4185,Female,47,S2,Sales,6.93,4.0,No,7,7,8,No,Yes,98
+ID7014,Male,27,S2,Business Development,9.9,5.0,No,8,9,8,Yes,Yes,62
+ID3369,Male,27,S1,Human Resources,6.93,3.0,No,8,8,9,No,Yes,60
+ID5324,Male,33,S1,Legal,5.94,6.0,No,10,9,8,Yes,No,59
+ID2595,Female,51,SMP,Marketing,6.93,7.0,No,9,7,9,No,Yes,67
+ID1083,Male,45,S2,Business Development,6.93,6.0,No,10,7,8,Yes,Yes,79
+ID5940,Male,26,S1,Business Development,8.91,2.0,No,7,8,10,Yes,Yes,61
+ID1384,Female,35,S1,Finance,5.94,2.0,Yes,8,7,10,No,No,63
+ID3300,Female,38,S2,Quality Assurance,6.93,4.0,No,9,7,9,No,Yes,84
+ID9904,Female,38,S2,Quality Assurance,6.93,6.0,No,7,6,10,No,Yes,97
+ID6167,Female,33,SMP,Product Management,6.93,3.0,No,6,10,9,No,No,60
+ID1071,Male,49,S2,Sales,6.93,6.0,No,10,9,6,No,Yes,100
+ID8935,Male,28,SMP,Data,9.9,1.0,Yes,9,9,9,Yes,Yes,59
+ID7403,Male,40,S1,Business Development,9.9,5.0,No,8,9,6,Yes,Yes,73
+ID7230,Male,32,S2,Sales,5.94,6.0,No,8,9,8,Yes,Yes,62
+ID8182,Male,44,S2,Sales,6.93,6.0,No,6,9,6,Yes,Yes,95
+ID2197,Female,31,SMP,Engineering,8.91,3.0,No,7,7,10,No,No,59
+ID2641,Male,20,SMP,Operations,5.94,2.0,No,7,7,7,No,Yes,63
+ID4767,Male,45,SMA,Operations,7.92,7.0,No,6,8,9,No,Yes,88
+ID4419,Male,40,SMP,Business Development,7.92,6.0,No,7,7,9,Yes,Yes,93
+ID8912,Female,20,S2,Business Development,7.92,3.0,No,6,9,9,Yes,Yes,62
+ID8715,Female,36,S1,Finance,5.94,5.0,No,10,9,10,No,Yes,61
+ID6508,Female,27,S1,Product Management,9.9,1.0,Yes,9,8,9,Yes,No,60
+ID3485,Female,47,SMP,Marketing,6.93,4.0,Yes,6,10,9,No,Yes,80
+ID9523,Female,28,S1,Business Development,7.92,5.0,No,6,9,6,Yes,No,91
+ID7377,Male,27,S2,Business Development,7.92,1.0,No,9,8,6,No,Yes,98
+ID4795,Male,44,S1,Engineering,5.94,7.0,No,8,10,9,No,No,91
